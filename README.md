@@ -132,3 +132,7 @@ The project uses the Sample Superstore dataset, which was divided into two norma
 ## Project Outcome
 
 This project successfully transformed raw e-commerce sales data into meaningful business insights using SQL. It demonstrates practical experience in database design, data analysis, KPI generation, customer analysis, sales reporting, and business intelligence. The project showcases strong SQL fundamentals and is suitable for Data Analyst, Business Analyst, and SQL Developer portfolio projects.
+
+## Author
+
+**Manasa Nalla**
